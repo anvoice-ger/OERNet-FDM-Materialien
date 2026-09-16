@@ -1,0 +1,24 @@
+cff-version: 0.0.1
+title: OER.net – Basic module
+message: Ready-to-use templates for Open Educational Resources (OER) on RDM.
+type: template
+authors:
+- given-names: x
+family-names: y
+email: x.y@zzzz.de
+affiliation: ZZZZ
+orcid: 'https://orcid.org/0000-0000-0000-0000'
+- given-names: x
+family-names: y
+email: x.y@zzzz.de
+affiliation: ZZZZ
+orcid: 'https://orcid.org/0000-0000-0000-0000'
+url: https://xyz.de
+abstract: |
+this repository ....
+keywords:
+- oer
+- template
+- rdm
+version: 1.0
+date-released: '2026-09-16'
