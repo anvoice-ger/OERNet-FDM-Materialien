@@ -1,24 +1,28 @@
 cff-version: 0.0.1
-title: OER.net – Basic module
-message: Ready-to-use templates for Open Educational Resources (OER) on RDM.
-type: template
+title: OER.net – RDM materials
+message: Ready-to-use materials for Open Educational Resources (OER) on RDM.
+type: dataset
 authors:
 - given-names: x
-family-names: y
-email: x.y@zzzz.de
-affiliation: ZZZZ
-orcid: 'https://orcid.org/0000-0000-0000-0000'
+  family-names: y
+  email: x.y@z.de
+  affiliation: ZZZZ
+  orcid: 'https://orcid.org/0000-0000-0000-0000'
 - given-names: x
-family-names: y
-email: x.y@zzzz.de
-affiliation: ZZZZ
-orcid: 'https://orcid.org/0000-0000-0000-0000'
+  family-names: y
+  email: x.y@zzzz.de
+  affiliation: ZZZZ
+  orcid: 'https://orcid.org/0000-0000-0000-0000'
+- given-names: Sina
+  family-names: Bock
+  email: sina.bock@th-koeln.de
+  affiliation: TH Cologne (University of Applied Sciences)
+  orcid: 'https://orcid.org/0000-0001-6754-8810'
 url: https://xyz.de
 abstract: |
-this repository ....
+  this repository ....
 keywords:
-- oer
-- template
-- rdm
+  - oer materials
+  - rdm
 version: 1.0
 date-released: '2026-09-16'
