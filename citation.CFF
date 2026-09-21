@@ -18,6 +18,11 @@ authors:
   email: sina.bock@th-koeln.de
   affiliation: TH Cologne (University of Applied Sciences)
   orcid: 'https://orcid.org/0000-0001-6754-8810'
+- given-names: Anne
+  family-names: Voigt
+  email: anne.voigt@fu-berlin.de
+  affiliation: Freie Universität Berlin
+  orcid: 'https://orcid.org/0000-0002-2873-3201'
 url: https://xyz.de
 abstract: |
   this repository ....
