@@ -23,6 +23,11 @@ authors:
     email: anne.voigt@fu-berlin.de
     affiliation: Freie Universität Berlin
     orcid: 'https://orcid.org/0000-0002-2873-3201'
+  - given-names: Dorothee
+    family-names: Urbaum
+    email: dorothee.urbaum@h-da.de
+    affiliation: Hochschule Darmstadt (h_da)
+    orcid: 'https://orcid.org/0009-0003-5711-6303'
 url: https://xyz.de
 abstract: |
   this repository ....
