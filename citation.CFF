@@ -28,6 +28,11 @@ authors:
     email: dorothee.urbaum@h-da.de
     affiliation: Hochschule Darmstadt (h_da)
     orcid: 'https://orcid.org/0009-0003-5711-6303'
+   - given-names: Canan
+    family-names: Hastik
+    email: c.hastik@igsd-ev.de
+    affiliation: Interessengemeinschaft für Semantische Datenverarbeitung (IGSD) e.V.
+    orcid: 'https://orcid.org/0000-0003-1729-4642'
 url: https://xyz.de
 abstract: |
   this repository ....
