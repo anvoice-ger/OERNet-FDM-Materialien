@@ -8,11 +8,11 @@ authors:
     email: x.y@z.de
     affiliation: ZZZZ
     orcid: 'https://orcid.org/0000-0000-0000-0000'
-  - given-names: x
-    family-names: y
-    email: x.y@zzzz.de
-    affiliation: ZZZZ
-    orcid: 'https://orcid.org/0000-0000-0000-0000'
+  - given-names: Andrea
+    family-names: Polywka
+    email: andrea.polywka@uni-marburg.de
+    affiliation: Philipps-Universität Marburg
+    orcid: 'https://orcid.org/0000-0003-0003-6719'
   - given-names: Sina
     family-names: Bock
     email: sina.bock@th-koeln.de
