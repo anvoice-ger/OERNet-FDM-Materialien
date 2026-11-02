@@ -39,7 +39,7 @@ LearningResourceType: Microlearning Unit
 >
 > - Lernende können die Prinzipien von Open Science benennen (LZM-ID: `01_008_0136`)
 
-**Zugehöriger Input-Brick:** [Prinzipien von Open Science](https://liascript.github.io/course/?https://raw.githubusercontent.com/anvoice-ger/OERNet-FDM-Materialien/refs/heads/main/modules/de/01_008_0136_Prinzipien-Open-Science_I.md#1)
+**Zugehöriger Input-Brick:** [01_008_0136 Prinzipien von Open Science](https://liascript.github.io/course/?https://raw.githubusercontent.com/anvoice-ger/OERNet-FDM-Materialien/refs/heads/main/modules/de/01_008_0136_Prinzipien-Open-Science_I.md#1)
 
 ## Didaktische Umsetzung
 
