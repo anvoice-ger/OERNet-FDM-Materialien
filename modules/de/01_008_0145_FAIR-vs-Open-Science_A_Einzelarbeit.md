@@ -1,7 +1,7 @@
 <!--
 author: Canan Hastik (0000-0003-1729-4642)
 
-email: c.hastik@igsd-ev.de
+email: info@igsd-ev.de
 
 version:  v1
 
