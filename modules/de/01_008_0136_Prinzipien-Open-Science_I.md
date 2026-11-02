@@ -90,10 +90,10 @@ leibniz-gemeinschaft.de
 
 ## Zugehörige Aktivitäts-Bricks
 
-- [Plenum](01_008_0136_Prinzipien-Open-Science_A_Plenum.md)
-- [Gruppenarbeit](01_008_0136_Prinzipien-Open-Science_A_Gruppenarbeit.md)
-- [Partner:innenarbeit](01_008_0136_Prinzipien-Open-Science_A_Partner:innenarbeit.md)
-- [Einzelarbeit](01_008_0136_Prinzipien-Open-Science_A_Einzelarbeit.md)
+- [Plenum](https://liascript.github.io/course/?https://raw.githubusercontent.com/anvoice-ger/OERNet-FDM-Materialien/refs/heads/main/modules/de/01_008_0136_Prinzipien-Open-Science_A_Plenum.md#1)
+- [Einzelarbeit](https://liascript.github.io/course/?https://raw.githubusercontent.com/anvoice-ger/OERNet-FDM-Materialien/refs/heads/main/modules/de/01_008_0136_Prinzipien-Open-Science_A_Einzelarbeit.md#1)
+- [Partner:innenarbeit](https://liascript.github.io/course/?https://raw.githubusercontent.com/anvoice-ger/OERNet-FDM-Materialien/refs/heads/main/modules/de/01_008_0136_Prinzipien-Open-Science_A_Partner_innenarbeit.md#1)
+- [Gruppenarbeit](https://liascript.github.io/course/?https://raw.githubusercontent.com/anvoice-ger/OERNet-FDM-Materialien/refs/heads/main/modules/de/01_008_0136_Prinzipien-Open-Science_A_Gruppenarbeit.md#1)
 
 ## Lizenzhinweise & Autor:innen
 
