@@ -1,7 +1,7 @@
 <!--
 author: Canan Hastik (0000-0003-1729-4642)
 
-email: c.hastik@igsd-ev.de
+email: info@igsd-ev.de
 
 version:  v1
 
@@ -167,4 +167,4 @@ Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Autor:in: Canan Hastik (0000-0003-1729-4642)
 
-Kontakt: c.hastik@igsd-ev.de
+Kontakt: info@igsd-ev.de
