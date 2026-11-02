@@ -159,7 +159,7 @@ Die allgemeinen didaktischen Hinweise sind im Aktivitäts-Brick für Einzelarbei
 
 ## Methodenpool und Quellen
 
-- Didaktische Methoden und Materialien aus der Ausgangsfassung von Canan Hastik; konkrete Methodenquellen wurden dort nicht angegeben.
+- Didaktische Methoden und Materialien aus der Ausgangsfassung von Rebekka Reichert und Canan Hastik (https://zenodo.org/records/23810117); konkrete Methodenquellen wurden dort nicht angegeben.
 
 ## Lizenzhinweise & Autor:innen
 
