@@ -150,6 +150,7 @@ ACHTUNG! (Alternativ oder ergänzend)
 
 <div style="flex: 1; background-color: lightblue; padding: 1em; border-radius: 2px;">
 **Werkzeuge für das virtuelle Klassenzimmer**
+  
 - [x] Videokonferenztool (z. B. BigBlueButton, Zoom)
 - [x] Präsentationstool (z. B. PowerPoint, LiaScript)
 - [ ] Quiz-/Umfragetool (z. B. LiaScript Classroom, Mentimeter)
