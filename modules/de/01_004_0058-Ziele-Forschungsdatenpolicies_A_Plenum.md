@@ -145,7 +145,7 @@ Benötigtes Material
 - [ ] Virtuelles Whiteboard (z. B. Miro)
 - [ ] Tool für kollaboratives Texten (z. B. ZUMpad)
 - [ ] Lernplattform (z. B. Moodle)
-- [ ] Sonstige Werkzeuge: [Angabe]
+- [ ] Sonstige Werkzeuge: 
 
 
 ## Lizenzhinweise & Autor:innen
