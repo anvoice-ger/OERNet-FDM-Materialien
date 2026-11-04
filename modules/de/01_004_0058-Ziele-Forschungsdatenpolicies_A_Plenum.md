@@ -85,7 +85,8 @@ Benötigtes Material
 - **Foliensatz**
 - **Forschungsdaten-Policies**
 
-ACHTUNG! (Alternativ oder ergänzend)
+### Didaktische Parameter / Didaktische Einordnung
+
 ---
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.5em;">
 
