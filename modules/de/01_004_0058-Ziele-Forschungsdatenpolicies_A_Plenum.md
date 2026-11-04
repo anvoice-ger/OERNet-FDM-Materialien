@@ -44,14 +44,17 @@ LearningResourceType: Microlearning Unit
 >
 > **Zugehöriger Input-Brick:** [01_004_0058-Ziele-Forschungsdatenpolicies](https://github.com/anvoice-ger/OERNet-FDM-Materialien/blob/main/modules/de/01_004_0058-Ziele-Forschungsdatenpolicies_I.md)
 >
-> ## Sozialform: Plenum
+## Didaktische Umsetzung: 
+
+**Sozialform:** Plenum
+
 Kurzbeschreibung
 ---
 Die Lernenden gleichen Ziele von bestehenden Forschungsdaten-Policies mit denen von der Lehrperson präsentierten ab und tragen die gesichteten Elemente zusammen. Ziel ist es, einen Überblick über Ziele und Elemente von Forschungsdaten-Policies zu bekommen.
 
 Vorbereitungsaufwand
 ---
-**gering** (ggf. Folien vorbereiten und zu untersuchende Policies nach Anzahl der TN (insgesamt 2-3 auswählen)
+**gering** (ggf. Folien vorbereiten und zu untersuchende Policies nach Anzahl der TN - insgesamt 2-3 auswählen)
 
 Zeit
 ---
@@ -70,7 +73,7 @@ Ablauf
    Lehrperson präsentiert Definition und Ziele von Forschungsdaten-Policies (Videokonferenztool mit Präsentationstool)
 
 2. **Erarbeitung:** 
-   Alle TN bekommen ca. zwei oder drei Policies aus der Liste (s. o.) mit dem Ziel, diese mit den präsentierten Ziele von Policies abzugleichen und deren Elemente (erkennbar an den strukturgebenden Abschnitten) zusammenzutragen (mündkich im Plenum oder im Chat)
+   Alle TN bekommen ca. zwei oder drei Policies aus der Liste (s. o.) mit dem Ziel, diese mit den präsentierten Zielen von Policies abzugleichen und deren Elemente (erkennbar an den strukturgebenden Abschnitten) zusammenzutragen (mündlich im Plenum oder im Chat)
 Fragen: *Welche der genannten Ziele findet ihr in den Forschungsdaten-Policies?* und *Welche Elemente sind in den Forschungsdaten-Policies enthalten?*
 
 3. **Sicherung:** 
@@ -145,4 +148,20 @@ ACHTUNG! (Alternativ oder ergänzend)
 - [ ] nein
 </div>
 
+<div style="flex: 1; background-color: lightblue; padding: 1em; border-radius: 2px;">
+**Werkzeuge für das virtuelle Klassenzimmer**
+- [x] Videokonferenztool (z. B. BigBlueButton, Zoom)
+- [x] Präsentationstool (z. B. PowerPoint, LiaScript)
+- [ ] Quiz-/Umfragetool (z. B. LiaScript Classroom, Mentimeter)
+- [ ] Virtuelles Whiteboard (z. B. Miro)
+- [ ] Tool für kollaboratives Texten (z. B. ZUMpad)
+- [ ] Lernplattform (z. B. Moodle)
+- [ ] Sonstige Werkzeuge: [Angabe]
 </div>
+
+## Lizenzhinweise & Autor:innen
+
+Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+Autor:in: Anne Voigt (0000-0002-2873-3201)
+
