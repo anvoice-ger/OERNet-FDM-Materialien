@@ -46,11 +46,11 @@ LearningResourceType: Microlearning Unit
 >
 ## Didaktische Umsetzung: 
 
-**Sozialform:** Gruppenarbeit
+**Sozialform:** Partner*innenarbeit
 
 Kurzbeschreibung
 ---
-Die Lernenden gleichen Elemente von bestehenden Forschungsdaten-Policies mit denen von der Lehrperson präsentierten ab und tragen die gesichteten Ziele zusammen. Ziel ist es, einen Überblick über Ziele und Elemente von Forschungsdaten-Policies zu bekommen.
+Die Lernenden untersuchen Forschungsdaten-Policies bzgl. vorhandener Ziele und Elemente und beurteilen ihre Verwendbarkeit in der Praxis.
 
 Vorbereitungsaufwand
 ---
@@ -70,13 +70,14 @@ Ziel(e)
 Ablauf
 ---
 1. **Einstieg:** 
-  Lehrperson präsentiert und trägt zuerst Definition und dann die Elemente von Forschungsdaten-Policies vor (Videokonferenztool mit Präsentationstool)
+  Lehrperson präsentiert und trägt zuerst Definition, Ziele und dann die Elemente von Policies von Forschungsdaten-Policies vor (Videokonferenztool mit Präsentationstool)
 
 2. **Erarbeitung:** 
-   Die Teilnehmenden werden in Kleingruppen mit eigenem Breaktoutraum aufgeteilt und bekommen jeweils eine andere Policy. Sie sollen dann schauen, ob in der Policy Ziele genannt werden und die Struktur/Elemente der Policy mit den im Einstieg vorgestellen Elementen abgleichen, vorhandene Ziele sowie Unterschiede und Übereinstimmungen festhalten und den anderen kurz vortragen (Videokonferenztool, Whiteboard oder anderes Tool für kollaboratives (Er)Arbeiten)
+   Tandems bekommen jeweils zwei Policies: eine mit Zielen und mehrheitlich übereinstimmenden Elementen wie im Einstieg beschrieben und eine ohne bzw. mit nur wenig Übereinstimmungen. Sie sollen sich die Policies überfliegend anschauen, sich über deren Inhalte austauschen, kurz diskutieren und beurteilen, welche Policy aus ihrer Sicht nachvollziehbar und auf die Praxis gut übertragbar und anwendbar ist. (Videokonferenztool mit Präsentation)
 
 3. **Sicherung:** 
-   Lehrperson fasst das Vorgetragene zusammen und präsentiert als Ergebnissicherung die Ziele von Policies (Videokonferenztool mit Präsentationstool)
+   Ausgewählte - oder je nach Zeit alle - Paare tragen ihr Ergebnis im Plenum kurz vor (Videokonferenztool mit Präsentation)
+
 
 Benötigtes Material
 ---
@@ -89,7 +90,7 @@ Benötigtes Material
 
 **Ziel der Methode**
 
-- [ ] Aktivierung
+- [x] Aktivierung
 - [x] Interaktion
 - [ ] Team-Building
 - [x] Reflexion
@@ -108,8 +109,8 @@ Benötigtes Material
 **Gruppengröße**
 
 - [ ] bis 10 Personen
-- [ ] bis 20 Personen
-- [x] bis 40 Personen
+- [x] bis 20 Personen
+- [ ] bis 40 Personen
 - [ ] mehr als 40 Personen
 
 
@@ -140,8 +141,8 @@ Benötigtes Material
 - [x] Videokonferenztool (z. B. BigBlueButton, Zoom)
 - [x] Präsentationstool (z. B. PowerPoint, LiaScript)
 - [ ] Quiz-/Umfragetool (z. B. LiaScript Classroom, Mentimeter)
-- [x] Virtuelles Whiteboard (z. B. Miro)
-- [x] Tool für kollaboratives Texten (z. B. ZUMpad)
+- [ ] Virtuelles Whiteboard (z. B. Miro)
+- [ ] Tool für kollaboratives Texten (z. B. ZUMpad)
 - [ ] Lernplattform (z. B. Moodle)
 - [ ] Sonstige Werkzeuge: 
 
