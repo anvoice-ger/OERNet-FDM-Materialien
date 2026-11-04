@@ -54,7 +54,7 @@ Die Lernenden untersuchen Forschungsdaten-Policies bzgl. vorhandener Ziele und E
 
 Vorbereitungsaufwand
 ---
-**gering** (ggf. Folien vorbereiten und zu untersuchende Policies nach Anzahl der TN - insgesamt 2-3 auswählen)
+**gering** (ggf. Folien vorbereiten und insgesamt 2 verschiedene, repräsentatitve zu untersuchende Policies auswählen)
 
 Zeit
 ---
@@ -70,13 +70,15 @@ Ziel(e)
 Ablauf
 ---
 1. **Einstieg:**
+
    Präsenz: Lehrperson präsentiert und trägt zuerst Definition, Ziele und dann die Elemente von Policies von Forschungsdaten-Policies vor (Videokonferenztool mit Präsentationstool)
+
    Selbstlernen: Lerende erarbeiten sich Definition, Ziele und  die Elemente von Policies von Forschungsdaten-Policies mit vorgegebenem Material (Lernplattform, Foliensatz oder kurzer Screeencast)
 
-2. **Erarbeitung:** 
+3. **Erarbeitung:** 
    TN bekommt eine oder zwei Policies und schaut sich beide überfliegend an. Dabei wird geprüft, ob in der Policy Ziele definiert werden, und die Struktur/Elemente der Policy mit dem unter Einstieg präsentiertem Input abgegelichen. 
 
-3. **Sicherung:**
+4. **Sicherung:**
    Die Ergebnissicherung erfolgt durch Abgleich mit Lösungsvorschlag.
 
 Benötigtes Material
