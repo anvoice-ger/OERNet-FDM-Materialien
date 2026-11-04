@@ -88,9 +88,7 @@ Benötigtes Material
 ### Didaktische Parameter / Didaktische Einordnung
 
 ---
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.5em;">
 
-<div style="flex: 1; background-color: lightblue; animation: blink 1s infinite alternate; padding: 1em; border-radius: 2px;">
 **Ziel der Methode**
 
 - [x] Aktivierung
@@ -100,19 +98,15 @@ Benötigtes Material
 - [ ] Feedback
 - [x] Sicherung
 
-</div>
 
-<div style="flex: 1; background-color: lightgreen; padding: 1em; border-radius: 2px;">
 **Lehrveranstaltungsphase**
 
 - [ ] Orientierung
 - [x] Erarbeitung
 - [x] Ergebnissicherung
 - [ ] Feedback
-</div>
 
 
-<div style="flex: 1; background-color: lightblue; padding: 1em; border-radius: 2px;">
 **Gruppengröße**
 
 - [ ] bis 10 Personen
@@ -120,18 +114,14 @@ Benötigtes Material
 - [x] bis 40 Personen
 - [ ] mehr als 40 Personen
 
-</div>
 
-<div style="flex: 1; background-color: lightgreen; padding: 1em; border-radius: 2px;">
 **Aufwand**
 
 - [x] gering
 - [ ] mittel
 - [ ] hoch
 
-</div>
 
-<div style="flex: 1; background-color: lightblue; padding: 1em; border-radius: 2px;">
 **Didaktische Funktion**
 
 - [x] Wissen aneignen/erarbeiten
@@ -140,16 +130,13 @@ Benötigtes Material
 - [ ] Wissen anwenden
 - [ ] Wissen diskutieren
 
-</div>
 
-<div style="flex: 1; background-color: lightgreen; padding: 1em; border-radius: 2px;">
 **Geeignet für online/hybride Lehre**
 
 - [x] ja
 - [ ] nein
-</div>
 
-<div style="flex: 1; background-color: lightblue; padding: 1em; border-radius: 2px;">
+
 **Werkzeuge für das virtuelle Klassenzimmer**
   
 - [x] Videokonferenztool (z. B. BigBlueButton, Zoom)
@@ -159,7 +146,7 @@ Benötigtes Material
 - [ ] Tool für kollaboratives Texten (z. B. ZUMpad)
 - [ ] Lernplattform (z. B. Moodle)
 - [ ] Sonstige Werkzeuge: [Angabe]
-</div>
+
 
 ## Lizenzhinweise & Autor:innen
 
