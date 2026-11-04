@@ -127,7 +127,7 @@ Benötigtes Material
 - [x] Wissen sammeln
 - [ ] Wissen teilen
 - [ ] Wissen anwenden
-- [ ] Wissen diskutieren
+- [x] Wissen diskutieren
 
 
 **Geeignet für online/hybride Lehre**
