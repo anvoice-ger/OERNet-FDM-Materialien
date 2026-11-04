@@ -1,6 +1,5 @@
 <!--
 cff-version: 0.0.1
-title: OER.net – RDM materials
 message: Ready-to-use materials for Open Educational Resources (OER) on RDM.
 author: 
   - given-names: Anne
@@ -19,7 +18,7 @@ link: https://raw.githubusercontent.com/RDM4CAU/OER_playground/refs/heads/main/h
 
 licence: CC BY
 
-comment: Mirco-Content zu den Lernzielen "Lernende können die Elemente und Ziele von Forschungsdaten-Policies erläutern."; "Lernende können unter Anleitung Recherchen zu Forschungsdaten-Policies durchführen." und "Lernende können eigenständig Recherchen zu Forschungsdaten-Policies durchführen.". Dieses Modul ist Teil eines Einführungskurses zum Forschungsdatenmanagement, der von “OER.net UAG FDM-Basiskurs” auf Grundlage der Lernzielmatrix zum FDM entwickelt wurde. Der Basiskurs entwickelt das Konzept der EduBricks weiter und ist als “Arbeitsgruppe 3: Einbettung und Vernetzung des modularen und skalierbaren Konzeptes” zudem Teil der NFDI-Sektion Education and Training (EduTrain).
+comment: Mirco-Content zum Lernziel "Lernende können die Elemente und Ziele von Forschungsdaten-Policies benennen." Dieses Modul ist Teil eines Einführungskurses zum Forschungsdatenmanagement, der von “OER.net UAG FDM-Basiskurs” auf Grundlage der Lernzielmatrix zum FDM entwickelt wurde. Der Basiskurs entwickelt das Konzept der EduBricks weiter und ist als “Arbeitsgruppe 3: Einbettung und Vernetzung des modularen und skalierbaren Konzeptes” zudem Teil der NFDI-Sektion Education and Training (EduTrain).
 
 title: Elemente und Ziele von Forschungsdatenpolicies
 
