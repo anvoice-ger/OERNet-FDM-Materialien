@@ -1,4 +1,7 @@
 <!--
+cff-version: 0.0.1
+title: OER.net – RDM materials
+message: Ready-to-use materials for Open Educational Resources (OER) on RDM.
 author: 
   - given-names: Anne
     family-names: Voigt
@@ -100,6 +103,7 @@ Forschungsdaten Policies haben das Ziel, **den Umgang mit Forschungsdaten in ein
 ---
 
 Quellenangaben:
+
 [1] forschungsdaten.info. (2025). Leitlinien und Policies. Abgerufen am 23.01.2026 https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/ 
 
 [2] Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) https://doi.org/10.5281/zenodo.10122153
