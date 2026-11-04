@@ -111,8 +111,8 @@ Benötigtes Material
 
 - [ ] bis 10 Personen
 - [ ] bis 20 Personen
-- [x] bis 40 Personen
-- [ ] mehr als 40 Personen
+- [ ] bis 40 Personen
+- [x] mehr als 40 Personen
 
 
 **Aufwand**
