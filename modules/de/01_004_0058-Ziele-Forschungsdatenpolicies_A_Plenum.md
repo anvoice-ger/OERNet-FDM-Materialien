@@ -148,7 +148,7 @@ Benötigtes Material
 - [ ] Sonstige Werkzeuge: 
 
 
-## Lizenzhinweise & Autor:innen
+## Lizenzhinweise & Autor*innen
 
 Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
